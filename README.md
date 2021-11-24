@@ -12,8 +12,10 @@ An example application integrated with API.
 
 ## Running the project
 
-Use **yarn** or **npm install** to install project dependencies. Then start the
+```cl
+ Use **yarn** or **npm install** to install project dependencies. Then start the
 project.
+```
 
 ```cl
  ionic serve
