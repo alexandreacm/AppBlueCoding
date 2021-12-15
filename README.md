@@ -10,7 +10,7 @@ An example application integrated with API.
 
 - [ ] Ionic 5
 
-## Running the project
+## Run the project
 
 ```cl
  Use **yarn** or **npm install** to install project dependencies. Then start the
