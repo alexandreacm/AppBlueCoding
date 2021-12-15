@@ -10,6 +10,7 @@ export class ApiTrendingService {
 
   //getGifts
   //My tests here.
+  //My last change.
   getGifts() {
     const apiKey = `pLURtkhVrUXr3KG25Gy5IvzziV5OrZGa`;
     const url = `https://api.giphy.com/v1/gifs/trending?api_key=${apiKey}`;

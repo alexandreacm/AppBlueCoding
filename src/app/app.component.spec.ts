@@ -4,6 +4,7 @@ import { TestBed, waitForAsync } from '@angular/core/testing';
 import { AppComponent } from './app.component';
 
 //My second test here...
+//My test here.
 describe('AppComponent', () => {
 
   beforeEach(waitForAsync(() => {
