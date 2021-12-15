@@ -9,6 +9,7 @@ export class ApiTrendingService {
   constructor(private api: HttpClient) { }
 
   //getGifts
+  //My tests here.
   getGifts() {
     const apiKey = `pLURtkhVrUXr3KG25Gy5IvzziV5OrZGa`;
     const url = `https://api.giphy.com/v1/gifs/trending?api_key=${apiKey}`;
